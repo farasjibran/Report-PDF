@@ -1,0 +1,15 @@
+{
+    "name": "belajarpinter/belajar-composer",
+    "description": "Untuk Kebutuhan Diri Sendiri",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Muhammad Farras Jibran",
+            "email": "farasjibran@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
